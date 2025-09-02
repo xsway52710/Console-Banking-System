@@ -35,6 +35,3 @@ Next Steps / TODO
 	•	Enable deposit, withdraw, and balance check through the menu
 	•	Optional: Transfer money between accounts
 	•	Optional: Transaction history logging# Console-Banking-System
-# console-banking-project
-# console-banking-project
-# Console-Banking-System
